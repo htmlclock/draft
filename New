@@ -1,0 +1,1 @@
+POST /content_references/{content_reference_id}/attachments
